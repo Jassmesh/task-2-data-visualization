@@ -1,5 +1,5 @@
 # Task 2: Data Visualization and Storytelling – Data Analyst Internship
-Power BI Sales Insights Report using Superstore Dataset
+##Power BI Sales Insights Report using Superstore Dataset
 This repository contains my Power BI project for Task 2 of the Data Analyst Internship.
 
 ## 📊 Objective
